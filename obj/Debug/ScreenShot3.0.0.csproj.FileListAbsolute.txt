@@ -1,0 +1,14 @@
+G:\ScreenShot3.0.0\bin\Debug\ScreenShort.exe
+G:\ScreenShot3.0.0\bin\Debug\ScreenShort.pdb
+G:\ScreenShot3.0.0\obj\Debug\ScreenShot3.0.0.csprojAssemblyReference.cache
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.ConformationSucess.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.ConformationUnSuccessfull.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.DisplayMessage.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.EditScreen.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.Properties.Resources.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.ScreenCapture.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.UserChoiceScreen.resources
+G:\ScreenShot3.0.0\obj\Debug\ScreenShot3.0.0.csproj.GenerateResource.cache
+G:\ScreenShot3.0.0\obj\Debug\ScreenShot3.0.0.csproj.CoreCompileInputs.cache
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.exe
+G:\ScreenShot3.0.0\obj\Debug\ScreenShort.pdb
