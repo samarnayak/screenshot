@@ -15,6 +15,7 @@ namespace ScreenShort
     private bool _SaveToClipboard = true;
     private int _PenWidth = 0;
 
+    //sleep time
     public int SleepTime
     {
       get => this._SleepTime;
